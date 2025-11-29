@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarveshwaran</h1>
+<h1 align="center">Hi, I'm Sarveshwaran</h1>
 <h3 align="center">Java Backend Developer | Spring Boot Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshwaran15&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshwaran15" /> </p>
